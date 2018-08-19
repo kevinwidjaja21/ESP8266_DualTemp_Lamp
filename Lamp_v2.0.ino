@@ -40,7 +40,7 @@
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "03c1f03b63d0467098745c67b79a0804";
+char auth[] = "************************************";
 int pwm[]={1023,1021,1019,1015,1007,991,959,895,767,639,511,383,255,127,0};
 
 // Set your LED and physical button pins here
