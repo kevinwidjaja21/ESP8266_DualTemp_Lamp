@@ -57,8 +57,8 @@ int data;
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "boeing";
-char pass[] = "boeing787";
+char ssid[] = "*******";
+char pass[] = "*******";
 
 void IR_button();
 
