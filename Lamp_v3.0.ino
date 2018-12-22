@@ -14,7 +14,7 @@
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "03c1f03b63d0467098745c67b79a0804";
+char auth[] = "YourAuthToken";
 
 /*
   Inversed 15 10-bit predefined brightness level first 8 = 2^n, the rest = 128*n
@@ -46,8 +46,8 @@ int data; //HEX value from IR reciever
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "boeing";
-char pass[] = "boeing787";
+char ssid[] = "YourNetworkName";
+char pass[] = "YourPassword";
 
 //function for the IR reciever
 void IR_button();
